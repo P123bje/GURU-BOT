@@ -10,9 +10,9 @@ global.owner = [praise]
   ['917605902011', 'GURU', true],
   ['6281255369012', 'Ash', true], 
   [''] 
-] //Number of owners +22960655765
+] //Number of owners +22940150313
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "" //003
 
 global.mods = ['917605902011','32460248586'] 
 global.prems = ['917605902011', '32460248586', '919398758484']
